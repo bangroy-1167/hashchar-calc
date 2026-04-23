@@ -5,6 +5,11 @@ hash calculator
 
 A simple web-based calculator to estimate the total number of possible combinations for a given character set and sequence length — and determine the minimum length required to safely store a target amount of data.
 
+## 🌐 Live Demo
+
+Try the calculator here:
+
+[Open Live Demo](https://bangroy-1167.github.io/hashchar-calc/)
 ---
 
 ## 🚀 Why This Tool Exists
