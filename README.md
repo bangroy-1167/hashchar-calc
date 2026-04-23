@@ -1,0 +1,2 @@
+# hashchar-calc
+hash calculator 
